@@ -14,4 +14,12 @@
 * [Granule cells reorient cortical trajectories to separate contexts](https://www.nature.com/articles/s41586-026-10946-1)
 * [The exoskeletons are coming (to a store near you)](https://www.nature.com/articles/d41586-026-02641-y)
 * [The HydroGym reinforcement learning platform for fluid dynamics](https://www.nature.com/articles/s41586-026-10917-6)
+* [Pervasive phosphorylation by phage T7 kinase disarms bacterial defences](https://www.nature.com/articles/s41586-026-10934-5)
+* [Agentic profiles for effective AI governance](https://www.nature.com/articles/s41586-026-10805-z)
+* [When physicians and AI work together, who is accountable? How to lay out medical liability A staging system based on how big a role AI has in patient ca](https://www.nature.com/articles/d41586-026-02315-9)
+* [Daily briefing: The science of The Odyssey](https://www.nature.com/articles/d41586-026-02345-3)
+* [How to use AI to make a graphical abstract in minutes](https://www.nature.com/articles/d41586-026-02072-9)
+* [Graduating without a thesis: meet the people getting ‘practical’ PhDs in China](https://www.nature.com/articles/d41586-026-01242-z)
+* [In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)
+* [Universities are relying on AI-detection software to catch cheating. How well do the programs work?](https://www.nature.com/articles/d41586-026-01358-2)
 * 
