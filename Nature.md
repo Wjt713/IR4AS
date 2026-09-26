@@ -27,5 +27,10 @@
 * [Daily briefing: Ovaries start a second job after menopause](https://www.nature.com/articles/d41586-026-02065-8)
 * [It slices! It dices! Sashimi-Bot handles seafood with ease](https://www.nature.com/articles/d41586-026-01871-4)
 * [AI has entered the workforce: tax tech profits, not people](https://www.nature.com/articles/d41586-026-01877-y)
-* [hale graveyard discovered 7km under the sea](https://www.nature.com/articles/d41586-026-01886-x)
+* [Whale graveyard discovered 7km under the sea](https://www.nature.com/articles/d41586-026-01886-x)
+* [Mitochondria directly interact with the nuclear pore complex](https://www.nature.com/articles/s41586-026-10588-3)
+* [Daily briefing: Pigeons might find their way by following their liver](https://www.nature.com/articles/d41586-026-01768-2)
+* [Daily briefing: Gene-activity ‘clock’ predicts biological ageing](https://www.nature.com/articles/d41586-026-01734-y)
+* [Daily briefing: The known protein universe just got a lot bigger](https://www.nature.com/articles/d41586-026-01713-3)
+* [Mechanism of age-related accumulation of mtDNA mutations in human blood](https://www.nature.com/articles/s41586-026-10569-6)
 * 
