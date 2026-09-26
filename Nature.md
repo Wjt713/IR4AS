@@ -22,4 +22,10 @@
 * [Graduating without a thesis: meet the people getting ‘practical’ PhDs in China](https://www.nature.com/articles/d41586-026-01242-z)
 * [In vivo feasibility study of humanoid robots in surgery](https://www.nature.com/articles/s41586-026-10796-x)
 * [Universities are relying on AI-detection software to catch cheating. How well do the programs work?](https://www.nature.com/articles/d41586-026-01358-2)
+* [Daily briefing: World Cup ‘hydration breaks’ miss the mark](https://www.nature.com/articles/d41586-026-02130-2)
+* [Trump has big AI and quantum ambitions: this scientist’s job is to make them reality](https://www.nature.com/articles/d41586-026-02023-4)
+* [Daily briefing: Ovaries start a second job after menopause](https://www.nature.com/articles/d41586-026-02065-8)
+* [It slices! It dices! Sashimi-Bot handles seafood with ease](https://www.nature.com/articles/d41586-026-01871-4)
+* [AI has entered the workforce: tax tech profits, not people](https://www.nature.com/articles/d41586-026-01877-y)
+* [hale graveyard discovered 7km under the sea](https://www.nature.com/articles/d41586-026-01886-x)
 * 
