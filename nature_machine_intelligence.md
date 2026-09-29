@@ -49,4 +49,14 @@
 * [Capturing complex hand movements and object interactions using machine learning-powered stretchable smart textile gloves](https://www.nature.com/articles/s42256-023-00780-9)
 * [Autonomous 3D positional control of a magnetic microrobot using reinforcement learning](https://www.nature.com/articles/s42256-023-00779-2)
 * 2023:
+* [Differentiable visual computing for inverse problems and machine learning](https://www.nature.com/articles/s42256-023-00743-0)
+* [Hierarchical generative modelling for autonomous robots](https://www.nature.com/articles/s42256-023-00752-z)
+* [Many-body control with reinforcement learning and tensor networks](https://www.nature.com/articles/s42256-023-00732-3)
+* [Hybrid hierarchical learning for solving complex sequential tasks using the robotic manipulation network ROMAN](https://www.nature.com/articles/s42256-023-00709-2)
+* [Identifying important sensory feedback for learning locomotion skills](https://www.nature.com/articles/s42256-023-00701-w)
+* [Morphological flexibility in robotic systems through physical polygon meshing](https://www.nature.com/articles/s42256-023-00676-8)
+* [How can LLMs transform the robotic design process?](https://www.nature.com/articles/s42256-023-00669-7)
+* [Incorporating physics into data-driven computer vision](https://www.nature.com/articles/s42256-023-00662-0)
+* [Active mechanical haptics with high-fidelity perceptions for immersive virtual reality](https://www.nature.com/articles/s42256-023-00671-z)
+* []
 
